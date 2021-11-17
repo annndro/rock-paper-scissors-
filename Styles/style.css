@@ -1,0 +1,30 @@
+body{
+	background:black;
+	font-family:Arial;
+	color:#39FF14;
+	
+}
+.header{
+	display:flex;
+	text-align:center;
+	justify-content:center;
+	padding:40px;
+	text-shadow:2px 2px #FFFF00;
+}
+.scores{
+	padding:10px;
+	color:#FF5F1F;
+	font-size:200%;
+}
+.finalresult{
+	padding:20px;
+	color:#FF5F1F;
+	font-size:150%;
+	font-weight:bold;
+}
+.validationbutton{
+	background-color:#4CBB17;
+	color:#FFFF00;
+	font-weight:bold;
+	text-shadow:2px 2px black;
+}
